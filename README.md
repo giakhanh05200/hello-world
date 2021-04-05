@@ -1,3 +1,2 @@
 # hello-world
-first repository 
-Hi humans! 
+Hi humans! Hello hello 
